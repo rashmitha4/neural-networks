@@ -1,1 +1,1 @@
-# classify images
+# AI & ML
